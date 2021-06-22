@@ -19,7 +19,7 @@ Continuing our simulation before, we run the simulation of Natural Gas Price usi
 
 4. Forecast the predicted residual values and actual values
 
-![pic4](https://github.com/altheanabila/Moving-Average-Model-Simulation-in-Natural-Gas-Price/blob/main/pic%204.png}
+![pic4](https://github.com/altheanabila/Moving-Average-Model-Simulation-in-Natural-Gas-Price/blob/main/pic%204.png)
 
 
 5. Adding both of the values to get the real values of MA method
